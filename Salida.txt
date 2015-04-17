@@ -1,3 +1,8 @@
+/*Salida del TP2 Programa Numero par, indica si un número ingresado es par o impar.
+* Juan Cruz Poveda
+* 16/4/15
+*/
+
 Ingrese un numero para saber si es par: 2
 El numero es par.
 -------------------------
