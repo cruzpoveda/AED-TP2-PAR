@@ -1,0 +1,13 @@
+Ingrese un numero para saber si es par: 2
+El numero es par.
+-------------------------
+Process exited after 2.599 seconds with return value 0
+Presione una tecla para continuar...
+
+
+
+Ingrese un numero para saber si es par: 3
+El numero es impar.
+-------------------------
+Process exited after 2.599 seconds with return value 0
+Presione una tecla para continuar...
